@@ -7,7 +7,7 @@ El programa requiere un package de Python llamada *Selenium* y una herramienta l
 ## Instrucciones de uso:
   1.	Completar *datos.py* con nombre de usuario, clave y un código de seguridad. Luego ingresar en *url* el link al chat al que se desea enviar un mensaje. Para eso, se debe haber iniciado sesión previamente en Instagram, ingresado al chat deseado y obtenido su url.
      
-*Nota: Los códigos de seguridad se consiguen desde la app de Instagram en la sección de seguridad. Cada uno de ellos se puede usar una sola vez*
+*Nota: Los códigos de seguridad se consiguen desde la app de Instagram en la sección de seguridad. Cada uno de ellos se puede usar una sola vez.*
 
   2.	Completar *run.py* con el mensaje a enviar.
      
