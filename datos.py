@@ -4,7 +4,7 @@
 	Ejemplo:
 		usuario = 'pepito_'
 		clave = 'clave123'
-        code = '12345678'
+        	code = '12345678'
 """
 
 usuario = 'tu nombre de usuario'
@@ -17,8 +17,13 @@ code = 'código de seguridad'
 	
 	Ejemplo:
 		chromedriverpath = 'users/usuario/inscripcion-utdt/chromedriver'
+
+  	el link debe ser un string
+
+    	Ejemplo:
+     		url = 'https://www.instagram.com/direct/t/17843175368524822/'
 """
 
 chromedriverpath = './chromedriver'
 
-url = 'https://www.instagram.com/direct/t/17843175368524821/'
+url = 'acá va el link al chat'
