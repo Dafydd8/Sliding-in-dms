@@ -18,7 +18,7 @@ code = 'código de seguridad'
 	Ejemplo:
 		chromedriverpath = 'users/usuario/inscripcion-utdt/chromedriver'
 
-  	el link debe ser un string
+  	el link al chat debe ser un string
 
     	Ejemplo:
      		url = 'https://www.instagram.com/direct/t/17843175368524822/'
